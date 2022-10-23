@@ -1,4 +1,4 @@
-Website: https://chrisdueck.github.io
+Website: https://chrisdueck.net
 LinkedIn: https://linkedin.com/in/dueck-chris/
 
 <!---
